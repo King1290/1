@@ -64,13 +64,9 @@ SQLyogEnt <br>
 4.选择“下一步”三次后，选择合适路径安装 <br>
 5.安装完成后点击“下一步”、“完成”  <br>
 ## 项目导入
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
-
-
+1.打开SQLyogEnt，输入密码“root”，点击“连接”进入后，导入文件1.sql <br>
+2.打开IntelliJ IDEA，导入项目Web <br>
+3.打开android studio，导入项目Android  <br>
 # 项目结构
 
 # 项目运行测试方法
