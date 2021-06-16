@@ -68,9 +68,41 @@ SQLyogEnt <br>
 2.打开IntelliJ IDEA，导入项目Web <br>
 3.打开android studio，导入项目Android  <br>
 # 项目结构
-
+## Web端
+/src/mian/java/com.msit.ztkj <br>
+|_attence：存放登录代码及相关常量定义 <br>
+|_banner：存放广告页代码及相关常量定义 <br>
+|_chang：存放图书馆区域座位代码及相关常量定义 <br>
+|_discuss：存放评论代码及相关常量定义 <br>
+|_fornum：存放论坛代码及相关常量定义 <br>
+|_seat：存放座位预约代码及相关常量定义 <br>
+|_news：存放新闻资讯代码及相关常量定义 <br>
+|_thumbs-up：存放点赞代码及相关常量定义 <br>
+|_userinfo：存放用户信息代码及相关常量定义 <br>
+|_utils：存放工具类和辅助代码 <br>
+/src/mian/java/webapp/model <br>
+|_attence：存放登录注册界面代码及相关常量定义 <br>
+|_banner：存放广告页界面代码及相关常量定义 <br>
+|_chang：存放图书馆区域座位界面代码及相关常量定义 <br>
+|_discuss：存放评论界面代码及相关常量定义 <br>
+|_fornum：存放论坛界面代码及相关常量定义 <br>
+|_seat：存放座位预约界面代码及相关常量定义 <br>
+|_news：存放新闻资讯界面代码及相关常量定义 <br>
+|_thumbs-up：存放点赞界面代码及相关常量定义 <br>
+|_userinfo：存放用户信息界面代码及相关常量定义 <br>
+## Android端
+/src/main/java/com.ztkj.victe/ui
+|_attence：存放登录代码及相关常量定义 <br>
+|_banners：存放广告页代码及相关常量定义 <br>
+|_base：存放图书馆区域座位代码及相关常量定义 <br>
+|_discuss：存放评论代码及相关常量定义 <br>
+|_fornum：存放论坛代码及相关常量定义 <br>
+|_seat：存放座位预约代码及相关常量定义 <br>
+|_news：存放新闻资讯代码及相关常量定义 <br>
+|_thumbs-up：存放点赞代码及相关常量定义 <br>
+|_userinfo：存放用户信息代码及相关常量定义 <br>
+|_weather：存放天气代码及相关常量定义 <br>
 # 项目运行测试方法
-
 
 
 # 联系方式
