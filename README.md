@@ -32,16 +32,17 @@ SQLyogEnt <br>
 9. <br>
 ## IntelliJ IDEA
 1.打开官网：http://www.jetbrains.com/idea/ ，点击页面中的“DOWNLOAD” <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
-6. <br>
-7. <br>
-8. <br>
-9. <br>
-10. <br>
-11. <br>
+2.选择下载IntelliJ IDEA 2019.2.2 x64 <br>
+3.双击下载好的安装包 <br>
+4.在弹出的界面点击“Next” <br>
+5.选择安装位置，然后点击“Next” <br>
+6.勾选安装选型，然后点击“Next” <br>
+7.点击“Install”，进入安装 <br>
+8.安装完成，点击“Finish” <br>
+9.双击安装好的桌面IntelliJ IDEA图标 <br>
+10.在弹出的界面点击“OK” <br>
+11.勾选同意，再点击“Continue” <br>
+12.选择“Skip Remaining and Set Defaults”  <br>
 ## android studio
 1. <br>
 2. <br>
