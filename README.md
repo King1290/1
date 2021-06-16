@@ -103,7 +103,7 @@ SQLyogEnt <br>
 |_userinfo：存放用户信息代码及相关常量定义 <br>
 |_weather：存放天气代码及相关常量定义 <br>
 # 项目运行测试方法
-
-
+1.Web端：点击“Run”按键编译运行后，进入http://localhost/model/user/index.html 即可进行测试； <br>
+2.Android端：选择合适的手机模拟器后，点击“Run”按键即可编译运行，随后在模拟器上可进行测试。 <br>
 # 联系方式
 2758685939@qq.com
