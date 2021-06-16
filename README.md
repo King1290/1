@@ -34,8 +34,7 @@ SQLyogEnt <br>
 变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;         //记得前面有个"."  <br>
 变量名：Path <br>
 变量值：%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin; <br>
-8. <br>
-9. <br>
+8.配置完成后，可点击"开始"->"运行"，键入"cmd"，键入命令: java -version，出现以下信息，说明环境变量配置成功：java version "1.8.0_91" <br>
 ## IntelliJ IDEA
 1.打开官网：http://www.jetbrains.com/idea/ ，点击页面中的“DOWNLOAD” <br>
 2.选择下载IntelliJ IDEA 2019.2.2 x64 <br>
