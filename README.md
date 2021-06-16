@@ -20,14 +20,54 @@ IntelliJ IDEA 2019.2.2 x64 <br>
 android studio 4.0 <br>
 SQLyogEnt <br>
 # 部署步骤
+## Java 运行环境部署
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
+6. <br>
+7. <br>
+8. <br>
+9. <br>
 ## IntelliJ IDEA
-1.打开官网：http://www.jetbrains.com/idea/ ，点击页面中的“DOWNLOAD”
+1.打开官网：http://www.jetbrains.com/idea/ ，点击页面中的“DOWNLOAD” <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
+6. <br>
+7. <br>
+8. <br>
+9. <br>
+10. <br>
+11. <br>
 ## android studio
-
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
+6. <br>
+7. <br>
+8. <br>
+9. <br>
+10. <br>
+11. <br>
 ## SQLyogEnt
-
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
+6. <br>
+7. <br>
 ## 项目导入
-
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
 
 
 # 项目结构
