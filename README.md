@@ -21,13 +21,19 @@ android studio 4.0 <br>
 SQLyogEnt <br>
 # 部署步骤
 ## Java 运行环境部署
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
-6. <br>
-7. <br>
+1.下载java开发工具包JDK，下载地址：http://www.oracle.com/technetwork/java/javase/downloads/index.html <br>
+2.选择Windows x64下载 <br>
+3.下载后JDK的安装根据提示进行 <br>
+4.安装完成后，右击"我的电脑"，点击"属性"，选择"高级系统设置" <br>
+5.选择"高级"选项卡，点击"环境变量" <br>
+6.在 "系统变量" 中设置 3 项属性，JAVA_HOME、PATH、CLASSPATH(大小写无所谓),若已存在则点击"编辑"，不存在则点击"新建" <br>
+7.变量设置参数如下： <br>
+变量名：JAVA_HOME <br>
+变量值：C:\Program Files (x86)\Java\jdk1.8.0_91        // 要根据自己的实际路径配置 <br>
+变量名：CLASSPATH <br>
+变量值：.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;         //记得前面有个"."  <br>
+变量名：Path <br>
+变量值：%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin; <br>
 8. <br>
 9. <br>
 ## IntelliJ IDEA
