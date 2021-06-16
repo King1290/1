@@ -49,17 +49,14 @@ SQLyogEnt <br>
 11.勾选同意，再点击“Continue” <br>
 12.选择“Skip Remaining and Set Defaults”  <br>
 ## android studio
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
-6. <br>
-7. <br>
-8. <br>
-9. <br>
-10. <br>
-11. <br>
+1.下载Android studio安装包，可以从 http://www.android-studio.org/ 下载 <br>
+2.下载后进行安装，点击"next" <br>
+3.点击"Finish" <br>
+4.在弹出界面点选第二个：Do not import settings <br>
+5.根据提示安装选择：Custom <br>
+6.风格可自行选择 <br>
+7.根据提示点击"next"，等待安装 <br>
+8.完成上面的步骤，将看到结束按钮，并可以在欢迎界面中打开 Android Studio 项目 <br>
 ## SQLyogEnt
 1. <br>
 2. <br>
