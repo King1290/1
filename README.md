@@ -58,13 +58,11 @@ SQLyogEnt <br>
 7.根据提示点击"next"，等待安装 <br>
 8.完成上面的步骤，将看到结束按钮，并可以在欢迎界面中打开 Android Studio 项目 <br>
 ## SQLyogEnt
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
-6. <br>
-7. <br>
+1.下载sqlyog：http://pan.baidu.com/s/1i5j4GG9 <br>
+2.双击sqlyog图标 <br>
+3.选择Chinese，点击"OK" <br>
+4.选择“下一步”三次后，选择合适路径安装 <br>
+5.安装完成后点击“下一步”、“完成”  <br>
 ## 项目导入
 1. <br>
 2. <br>
